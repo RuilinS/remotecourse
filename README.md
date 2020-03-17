@@ -1,2 +1,3 @@
 # remotecourse
-It is a readme file.
+
+<video src="Remotecourse.mov" width="320" height="200" controls preload></video>
